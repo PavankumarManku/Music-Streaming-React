@@ -1,0 +1,52 @@
+{
+  "music": [
+    {
+      "id": "2",
+      "imgS": "/img/b.jpeg",
+      "title": "Bad Boy Song",
+      "artist": "Prabhas",
+      "album": "Saaho",
+      "src": "/Music/new_320_03 - Bad Boy - Saaho (2019).mp3"
+    },
+    {
+      "id": "3",
+      "imgS": "/img/c.jpeg",
+      "title": "Ayudha Pooja",
+      "artist": "NTR",
+      "album": "Devara",
+      "src": "/Music/Ayudha Pooja.mp3"
+    },
+    {
+      "id": "4",
+      "imgS": "/img/d.jpeg",
+      "title": "Hukum",
+      "artist": "Anirudh Ravichandran, Super Subu",
+      "album": "Jailer",
+      "src": "/Music/Hukum Thalaivar Alappara Jailer 320 Kbps.mp3"
+    },
+    {
+      "id": "5",
+      "imgS": "/img/e.jpeg",
+      "title": "Chaleya",
+      "artist": "Sharukh Khan",
+      "album": "Jawan",
+      "src": "/Music/Chaleya.mp3"
+    },
+    {
+      "id": "6",
+      "imgS": "/img/f.jpg",
+      "title": "Satharanga",
+      "artist": "Ranbir Kapoor",
+      "album": "Animal",
+      "src": "/Music/Satranga.mp3"
+    },
+    {
+      "id": "7",
+      "imgS": "/img/g.jpeg",
+      "title": "My Heart is Beating",
+      "artist": "Pawan Kalyan",
+      "album": "Jalsa",
+      "src": "/Music/My Heart Is Beating (Remix)-SenSongsMp3.Co.mp3"
+    }
+  ]
+}
